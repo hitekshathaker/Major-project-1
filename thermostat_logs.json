@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2023-03-15T07:00:00",
+    "temperature": 21,
+    "setpoint": 22
+  },
+  {
+    "timestamp": "2023-03-15T08:00:00",
+    "temperature": 22,
+    "setpoint": 22
+  },
+  {
+    "timestamp": "2023-03-15T09:00:00",
+    "temperature": 50,
+    "setpoint": 50
+  },
+  {
+    "timestamp": "2023-03-15T10:00:00",
+    "temperature": 26,
+    "setpoint": 22
+  },
+  {
+    "timestamp": "2023-03-15T11:00:00",
+    "temperature": 27,
+    "setpoint": 22
+  },
+  {
+    "timestamp": "2023-03-15T12:00:00",
+    "temperature": 10,
+    "setpoint": 22
+  },
+  {
+    "timestamp": "2023-03-15T13:00:00",
+    "temperature": 22,
+    "setpoint": 22
+  },
+  {
+    "timestamp": "2023-03-15T14:00:00",
+    "temperature": 23,
+    "setpoint": 22
+  },
+  {
+    "timestamp": "2023-03-15T15:00:00",
+    "temperature": 30,
+    "setpoint": 22
+  }
+]
